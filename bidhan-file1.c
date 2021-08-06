@@ -1,0 +1,3 @@
+char* bidhan(){
+ return "bidhan";
+}
